@@ -5,7 +5,7 @@
 # AI_FOR_GOOD_ROBOTICS_YOUTH_CHALLENGE
 Autonomous agricultural robot built with Raspberry Pi and Python for the Robotics for Good Youth Challenge, featuring mecanum mobility, robotic arm manipulation, and early-stage AI integration.
 
-# CruciBot – Autonomous Agricultural Robot
+# CruciBot Autonomous Agricultural Robot
 
 > Built for the Robotics for Good Youth Challenge 2025–2026  
 > Team: **Crucible Lusaka**
@@ -20,7 +20,7 @@ Autonomous agricultural robot built with Raspberry Pi and Python for the Robotic
 - Selective irrigation triggering
 - Fruit harvesting and sorting
 
-This project was developed for the **Robotics for Good Youth Challenge**, which focuses on solving global agricultural challenges through robotics and innovation.
+This project was developed for the **Robotics for Good Youth Challenge**, which focuses on solving global challenges through robotics and innovation.
 
 The robot operates fully autonomously within a timed environment, mimicking real-world constraints in modern farming systems.
 
@@ -42,7 +42,7 @@ The robot operates fully autonomously within a timed environment, mimicking real
 - Mecanum wheel drive system
 - Servo-based robotic arm
 
-### 💻 Software Stack
+### Software Stack
 - Python
 - GPIO control libraries
 
